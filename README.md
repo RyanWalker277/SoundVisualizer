@@ -8,7 +8,7 @@ This project houses a sound visualaizer made using p5 js.It generates cool looki
 [![GitHub forks](https://img.shields.io/github/forks/RyanWalker277/SoundVisualizer)](https://github.com/RyanWalker277/SoundVisualizer/network)
 [![GitHub stars](https://img.shields.io/github/stars/RyanWalker277/SoundVisualizer)](https://github.com/RyanWalker277/SoundVisualizer/stargazers)
 [![GitHub license](https://img.shields.io/github/license/RyanWalker277/SoundVisualizer)](https://github.com/RyanWalker277/SoundVisualizer/blob/main/LICENSE)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/RyanWalker277/EcoJoy) 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/RyanWalker277/SoundVisualizer) 
 <br>
 
 ## Demo
